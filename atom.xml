@@ -10,9 +10,9 @@ layout: null
  <id>{{ site.url }}</id>
  <updated>{{ site.time | date_to_xmlschema }}</updated>
  <author>
-   <name>{{ site.author.name }}</name>
-   <uri>{{ site.author.url }}</uri>
-   <email>{{ site.author.email }}</email>
+   <name>{{ Naman Gera }}</name>
+   <uri>{{ https://github.com/namannimmo10 }}</uri>
+   <email>{{ namangera15@gmail.com }}</email>
  </author>
 
  {% for post in site.posts limit: 10 %}
