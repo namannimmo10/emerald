@@ -37,11 +37,11 @@ html {
 
 /*- Link -*/
 a {
-	color: $main-color;
+	color: #5499C7;
 	text-decoration: none;
 	font-weight: 700;
 	&:hover,
 	&:focus {
-		color: darken($main-color, 5%);
+		color: darken(#5499C7, 5%);
 	}
 }
